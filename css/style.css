@@ -3,8 +3,8 @@ body {
     background-color: #000000;
     font-family: Arial,Verdana;
     margin-top: 20px;
-    margin-right: 200px;
-    margin-left: 200px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 h1{
@@ -105,5 +105,6 @@ footer p{
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-left:none;
 
 }
